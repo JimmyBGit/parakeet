@@ -6,7 +6,7 @@
 | Dried green peppercorns | 1 tbsp |
 | Salt | 1 big pinch / 5 g |
 | Butter | 25 g |
-| Vine tomatoes | 25 grams / 2 small |
+| Vine plum tomatoes | 25 grams / 2 small |
 | Shallots | 75 g / 4 small / 2 big |
 | Garlic | 3 medium cloves |
 | Thyme | 10 sprigs |

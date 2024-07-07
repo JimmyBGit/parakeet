@@ -15,16 +15,15 @@
 | Single cream | 100 ml |
 | Water | 100 ml |
 
-| Equipment |
-| --- |
-| 1 small sausepan |
-| 1 medium / large frying pan |
-| Sharp knife |
-| Chopping board |
-| rolling ping / pestle and mortar / some method to crush peppercorns |
-| 1 medium bowl for serving |
-| 1 small bowl |
-| Lighter |
+| Equipment | Quantity | 
+| --- | --- |
+| mall sausepan | 1 |
+| Medium / large frying pan | 1 |
+| Sharp knife | 1 |
+| Chopping board | 1 |
+| Medium bowl for serving | 1 |
+| Small bowl | 1 |
+| Lighter | 1 |
 
 ### Prep
 | Ingredients | Prep | Prep location |

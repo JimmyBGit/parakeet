@@ -2,8 +2,8 @@
 
 | Ingredients | Quantity / volume |
 | --- | --- |
-| Dried black Peppercorns | 1 tbsp |
-| Dried green Peppercorns | 1 tbsp |
+| Dried black peppercorns | 1 tbsp |
+| Dried green peppercorns | 1 tbsp |
 | Salt | 1 big pinch / 5 g |
 | Butter | 25 g |
 | Vine tomatoes | 25 grams / 2 small |
@@ -15,7 +15,7 @@
 | Single cream | 100 ml |
 | Water | 100 ml |
 
-| Equiptment |
+| Equipment |
 | --- |
 | 1 small sausepan |
 | 1 medium / large frying pan |

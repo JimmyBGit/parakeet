@@ -17,7 +17,7 @@
 
 | Equipment | Quantity | 
 | --- | --- |
-| mall sausepan | 1 |
+| Small sausepan | 1 |
 | Medium / large frying pan | 1 |
 | Sharp knife | 1 |
 | Chopping board | 1 |

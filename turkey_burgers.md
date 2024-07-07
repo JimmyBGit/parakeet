@@ -19,15 +19,15 @@
 | Oven | 1 |
 | Large baking tray | 1 |
 | Parchment paper | **Enough to cover baking tray** |
+| Burger ring/form 4 inches/10 cm in diameter | 1 |
 | Spatula | 1 |
 | Large frying pan | 1 |
 | Large mixing bowl | 1 |
-| Small bowl | 3 |
+| Small bowl | 2 |
 | Sharp knife | 1 |
 | Chopping board | 1 |
 | Cheese grater | 1 |
 | Fridge | 1 |
-| Burger ring / form 4 inch / 10 cm in diameter | 1 |
 
 
 ### Prep
